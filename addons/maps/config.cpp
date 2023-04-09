@@ -27,6 +27,6 @@ class CfgMissions
         {
             briefingName = $STR_A3AE_maps_Sumava_mapname;
             directory = QCPATHTO(Antistasi_brf_sumava.brf_sumava);
-        }
+        };
     };
 };
