@@ -35,16 +35,16 @@
     //////////////////////////////////////////////////////////////////////////////////
     </-->
       <Key ID="STR_A3AE_maps_Sumava_mapname_short">
-        <Original>Antistasi Sumava Extender Overwritten map</Original>
+        <Original>Antistasi Sumava</Original>
       </Key>
       <Key ID="STR_A3AE_maps_Sumava_mapname">
-        <Original>Antistasi - Liberation of Sumava Extender Overwritten map</Original>
+        <Original>Antistasi - Liberation of Sumava</Original>
       </Key>
       <Key ID="STR_A3AE_maps_Sumava_description">
         <Original>Fuck some shit up on a overwritten map</Original>
       </Key>
       <Key ID="STR_A3AE_maps_Sumava_loadText">
-        <Original>Because nothing is more important than fun. on a overwritten map</Original>
+        <Original>Because nothing is more important than fun./Original>
       </Key>
     </Container>
   </Package>

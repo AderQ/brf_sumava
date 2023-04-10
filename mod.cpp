@@ -1,4 +1,4 @@
-name = "A3 Antistasi - Sumava";
+name = "Antistasi - Sumava";
 author = "A3-Antistasi dev team, ported by AderQ";
 tooltip = "Antistasi Sumava";
 actionName = "GitHub";
