@@ -6,7 +6,7 @@ class brf_sumava {
 	};
 	banks[] = {}; // no banks on map
 	garrison[] = {
-		{},{"airport_2"},{},{}
+		{},{"airport_2", "control_5"},{},{"airport_2"}
 	}; // not sure how to set this up
 	fuelStationTypes[] = {
 		{"Land_A_FuelStation_Feed","Land_Ind_FuelStation_Feed_EP1","Land_FuelStation_Feed_PMC","Land_Fuelstation","Land_Fuelstation_army","Land_Benzina_schnell"};
