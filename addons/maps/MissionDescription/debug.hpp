@@ -13,6 +13,7 @@ enableDebugConsole[] = {
     "76561197991835568", //Tad
     "76561198068206504", //poweredbypot
     "76561197969814277", //Giddi
-    "76561198041429764"  //Killerswin2
+    "76561198041429764",  //Killerswin2
+    "76561198001029676" //AderQ - temporary for testing
 };
 allowFunctionsRecompile = 1;
